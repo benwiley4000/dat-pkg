@@ -1,5 +1,5 @@
 # dat-pkg
-Draft specification of decentralized package registry based on the Dat protocol
+Draft specification of decentralized package registry and manager based on the Dat protocol
 
 This is based on a series of tweets I just made. It needs to be implemented! Make pull requests to help make that happen.
 
